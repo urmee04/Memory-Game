@@ -4,8 +4,8 @@
 
 ### Table of Contents
 
-  *Instructions
-  *Dependencies
+  * Instructions
+  * Dependencies
 
 ### Instructions
 
@@ -17,7 +17,7 @@
 
    - Player will then have the option asking play again and a close button. This game can be played on mobile devices, tablets and desktops. 
 
-##Dependencies
+## Dependencies
 
  1.Font Awesome(https://fontawesome.com/)
  2.Google Fonts(https://fonts.google.com/)
