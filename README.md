@@ -19,6 +19,6 @@
 
 ### Dependencies
 
- 1.Font Awesome(https://fontawesome.com/)
- 2.Google Fonts(https://fonts.google.com/)
- 3.Jquery(https://jquery.com/)
+ 1. Font Awesome(https://fontawesome.com/)
+ 2. Google Fonts(https://fonts.google.com/)
+ 3. Jquery(https://jquery.com/)
